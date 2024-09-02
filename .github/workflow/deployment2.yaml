@@ -1,4 +1,4 @@
-name: Deployent Excercise 2
+name: Deployent Excercise latest
 on: push
 jobs:
   lint:
